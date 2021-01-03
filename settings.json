@@ -1,0 +1,8 @@
+{
+    "inDir": "in",
+    "outDir": "out",
+    "format": "utf16le",
+    "gameText": "gametext.txt",
+    "storyText": "storytext.txt",
+    "languages": ["nl", "ja", "haw", "en"]
+}
